@@ -1,0 +1,10 @@
+c:\users\rodrigo\documents\visual studio 2015\Projects\Hello-World\Hello-World\bin\Debug\Hello-World.exe.config
+c:\users\rodrigo\documents\visual studio 2015\Projects\Hello-World\Hello-World\obj\Debug\Hello-World.vbprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2015\Projects\Hello-World\Hello-World\obj\Debug\Hello_World.Resources.resources
+c:\users\rodrigo\documents\visual studio 2015\Projects\Hello-World\Hello-World\obj\Debug\Hello-World.vbproj.GenerateResource.Cache
+c:\users\rodrigo\documents\visual studio 2015\Projects\Hello-World\Hello-World\obj\Debug\Hello-World.xml
+c:\users\rodrigo\documents\visual studio 2015\Projects\Hello-World\Hello-World\bin\Debug\Hello-World.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\Hello-World\Hello-World\bin\Debug\Hello-World.pdb
+c:\users\rodrigo\documents\visual studio 2015\Projects\Hello-World\Hello-World\bin\Debug\Hello-World.xml
+c:\users\rodrigo\documents\visual studio 2015\Projects\Hello-World\Hello-World\obj\Debug\Hello-World.exe
+c:\users\rodrigo\documents\visual studio 2015\Projects\Hello-World\Hello-World\obj\Debug\Hello-World.pdb
